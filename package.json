@@ -6,6 +6,7 @@
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
+  #This is typed suresh from the sub branch
   "repository": "https://github.com/wiztemple/flamescss.git",
   "author": "wiztemple <wiztemple@gmail.com>",
   "license": "MIT",
